@@ -1,0 +1,23 @@
+{
+  "name": "cfgms",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JeffSimmonsSimlow/cfgms.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JeffSimmonsSimlow/cfgms/issues"
+  },
+  "homepage": "https://github.com/JeffSimmonsSimlow/cfgms#readme",
+  "devDependencies": {
+    "pipedrive": "^18.1.4"
+  }
+}
