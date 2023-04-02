@@ -12,7 +12,7 @@ async function addDeal() {
         const api = new pipedrive.DealsApi(defaultClient);
 
         const data = {
-            title: 'New Deal',
+            title: 'New Jason Deal',
             value: 10000,
             currency: 'USD',
             user_id: null,
